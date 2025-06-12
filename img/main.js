@@ -19,7 +19,7 @@ const perguntas = [
         ]
     },
     {
-    enunciado: " ",
+    enunciado: " Pra você o que representa a conexão entre o campo e a cidade? ",
         alternativas: [
             {
                 texto: "Falta de Educação Ambiental",
