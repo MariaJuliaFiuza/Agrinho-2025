@@ -9,11 +9,11 @@ const perguntas = [
         enunciado: "O que mais te motiva em um evento que une o campo e a cidade?",
         alternativas: [
             {
-                texto: "encaminhar-se a regional de saude do seu município, munido dos seguintes documentos: cpf ou rg, comprovante de residencia, prescriçao atualizada, receituario medico.",
+                texto: " Ver resultados concretos, como negócios fechados e oportunidades de crescimento para produtores e empreendedores.",
                 afirmacao: "<b>Organização</b> Sim, a Sesa tem como principal função garantir o acesso ao serviços que visem a promoção, protećão e recuperação da saúde da população em todo o Paraná."
             },
             {
-                texto: "Exigências quanto ao  relatório médico. Os documentos preenchidos pelo médico deverão conter carimbo legível, com nome e CRM do médico, data e assinatura.",
+                texto: " Observar a união das famílias, o clima acolhedor e a valorização das tradições locais.",
                 afirmacao: "Você se destaca por seu <b>conhecimento</b>, o carimbo deverá conter também o número do Registro de Qualificação de Especialista (RQE)"
             }
         ]
@@ -22,11 +22,11 @@ const perguntas = [
     enunciado: " Pra você o que representa a conexão entre o campo e a cidade? ",
         alternativas: [
             {
-                texto: "Falta de Educação Ambiental",
+                texto: "Uma oportunidade estratégica para desenvolvimento econômico e inovação em ambos os lados. ",
                 afirmacao: "Muitas pessoas não têm acesso a informações adequadas sobre o impacto de suas ações no meio ambiente, o que leva à falta de conscientização e, consequentemente, a comportamentos prejudiciais à <b>sustentabilidade</b>.</b>."
             },
             {
-                texto: "Falta de Incentivos e Legislação",
+                texto: "",
                 afirmacao: "A ausência de incentivos governamentais e de uma legislação <b>rigorosa </b>faz com que empresas e indivíduos não se sintam motivados a adotar práticas sustentáveis, contribuindo para a continuidade de ações nocivas ao meio ambiente."
             }
         ]
