@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Por que há tanta escassez de recursos na saúde pública?",
+        enunciado: "Quando você pensa na união entre campo e cidade, o que mais valoriza?",
         alternativas: [
             {
                 texto: "Acredito que Falta de investimento governamental",
@@ -45,7 +45,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Por que a violência obstétrica está cada vez mais banalizada? ",
+        enunciado: " Como você enxerga o impacto de eventos que aproximam o campo da cidade? ",
         alternativas: [
             {
                 texto: "Negligência médica",
